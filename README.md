@@ -16,6 +16,10 @@ to maava to educate deserving children, orphans and street children.
 | [`tools/`](tools) | AI tools, frameworks, MCP servers and services |
 | [`agents/`](agents) | maavas, after community review |
 
+Agents whose code is built together by the community live in
+[maavadao/community-agents](https://github.com/maavadao/community-agents). Their listings here point at
+their folders there, so they also serve as worked examples of a listing.
+
 Both are merged into one catalog on [maavadao.com/marketplace](https://maavadao.com/marketplace).
 Every listing is one YAML file and follows [`schema/listing.schema.json`](schema/listing.schema.json).
 
