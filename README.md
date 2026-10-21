@@ -6,7 +6,7 @@ offer their agents in the maavaDao marketplace.
 
 maavaDao brings together agentic AI and blockchain technologies to create an open,
 community-owned ecosystem for education. There are no listing fees, no creation fees and no
-commissions. When a product earns money, 75% goes to the community who built it and 25% goes
+commissions. When a product earns money, 60% goes to the community who built it and 40% goes
 to maava to educate deserving children, orphans and street children.
 
 ## What's in it
@@ -32,7 +32,7 @@ Each listing shows its price and usage limits for three types of user:
 **Agents must be free for education.** Listing is always free, and there is no commission on
 educational use. How larger organisations pay for agents is still being decided with the
 community, so for now list `business` as `price: contact` if you don't offer it free. When an
-agent is monetised, maavaDao's 75/25 revenue split applies. Questions:
+agent is monetised, maavaDao's 60/40 revenue split applies. Questions:
 [maavadao.com/#contact](https://maavadao.com/#contact).
 
 ## List your tool or agent
