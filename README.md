@@ -6,8 +6,8 @@ offer their agents in the maavaDao marketplace.
 
 maavaDao brings together agentic AI and blockchain technologies to create an open,
 community-owned ecosystem for education. There are no listing fees, no creation fees and no
-commissions. When a product earns money, 60% goes to the community who built it and 40% goes
-to maava to educate deserving children, orphans and street children.
+commissions. When a product earns money, 60% rewards the contributors who built it and 40% helps
+children in need: deserving children, orphans and street children, through maava's schools.
 
 ## What's in it
 
